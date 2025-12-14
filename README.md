@@ -15,7 +15,7 @@ The assignment focuses on mastering the Pandas library for efficient data manipu
 
 * **`Advanced_Programming_HW3.ipynb`**: Full Python solution notebook with code and analysis results.
 * **`flights.csv`**: The raw dataset used for the analysis.
-* **`docs/Assignment_Instructions_3.pdf`**: Original assignment instructions.
+* **`Assignment_Instructions_3.pdf`**: Original assignment instructions.
 
 ***
 *Course: Advanced Programming (Shenkar College, IE&M)*
